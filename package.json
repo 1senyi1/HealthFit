@@ -1,0 +1,26 @@
+{
+  "name": "healthfit_tea",
+  "version": "1.0.0",
+  "description": "Welcome to HealthFit! HealthFit is your personal fitness companion, designed to help you achieve your health and fitness goals. Whether you're aiming to lose weight, build muscle, or improve your overall well-being, HealthFit provides the tools and motivation you need to succeed. Say hello to a healthier, happier you with HealthFit!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/1senyi1/HealthFit.git"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "1senyi1",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }
